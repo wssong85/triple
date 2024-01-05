@@ -1,0 +1,21 @@
+${AnsiBackground.BLACK}
+${AnsiColor.BLUE}    .--.              .--.
+${AnsiColor.BLUE}   : (\ ". _......_ ." /) :
+${AnsiColor.BLUE}    '.    `        `    .'
+${AnsiColor.BLUE}     /'   _        _   `\
+${AnsiColor.BLUE}    /     0}      {0     \
+${AnsiColor.BLUE}   |       /      \       |
+${AnsiColor.BLUE}   |     /'        `\     |
+${AnsiColor.BLUE}    \   | .  .==.  . |   /
+${AnsiColor.BLUE}     '._ \.' \__/ './ _.'
+${AnsiColor.BLUE}     /  ``'._-''-_.'``  \
+
+${AnsiColor.GREEN},--------.       ,--.       ,--.               ,---.    ,--.  ,--.                   ,--.                 ,--.  ,--.
+${AnsiColor.GREEN}'--.  .--',--.--.`--' ,---. |  |,---. ,-----. /  O  \ ,-'  '-.|  ,---.  ,---. ,--.--.`--',-----. ,--,--.,-'  '-.`--' ,---. ,--,--,
+${AnsiColor.GREEN}   |  |   |  .--',--.| .-. ||  | .-. :'-----'|  .-.  |'-.  .-'|  .-.  || .-. ||  .--',--.`-.  / ' ,-.  |'-.  .-',--.| .-. ||      \
+${AnsiColor.GREEN}   |  |   |  |   |  || '-' '|  \   --.       |  | |  |  |  |  |  | |  |' '-' '|  |   |  | /  `-.\ '-'  |  |  |  |  |' '-' '|  ||  |
+${AnsiColor.GREEN}   `--'   `--'   `--'|  |-' `--'`----'       `--' `--'  `--'  `--' `--' `---' `--'   `--'`-----' `--`--'  `--'  `--' `---' `--''--'
+${AnsiColor.GREEN}                     `--'
+
+${AnsiColor.MAGENTA}${application.title} ${application.version}
+${AnsiColor.MAGENTA}Powered by Spring Boot ${spring-boot.version}

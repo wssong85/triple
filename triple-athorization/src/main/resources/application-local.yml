@@ -1,0 +1,21 @@
+
+spring:
+  application:
+    name: triple-athorization
+    version: 0.1
+
+  devtools:
+    livereload:
+      enabled: true
+
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:postgresql://${AUTH_DB_URL}
+    username: ${AUTH_DB_USER}
+    password: ${AUTH_DB_PASSWORD}
+    hikari:
+      maximumPoolSize: 3
+      data-source-properties:
+        reWriteBatchedInserts: true
+
